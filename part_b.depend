@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1527651668 source:c:\users\matt\desktop\part-a_b\part-b\part_b\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<iomanip>
+	"reserved.h"
+	"guest.h"
+	"table.h"
+
+1527651668 c:\users\matt\desktop\part-a_b\part-b\part_b\reserved.h
+	<iostream>
+
+1527651668 c:\users\matt\desktop\part-a_b\part-b\part_b\guest.h
+	<iostream>
+
+1527651670 c:\users\matt\desktop\part-a_b\part-b\part_b\table.h
+	<iostream>
+
